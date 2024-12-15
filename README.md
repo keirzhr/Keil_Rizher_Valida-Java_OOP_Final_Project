@@ -19,6 +19,7 @@ The *Pawfect Match: A Pet Adoption System* is a **Java-based application** devel
 - ⚙️ **Manage pets in the system**
 
 ---
+---
 
 ## **II. Object-Oriented Programming (OOP) Principles** 🔧  
 
@@ -45,6 +46,7 @@ The project demonstrates key **OOP principles**:
 - Different implementations of `displayDashboard()` for `RegularUser` and `AdminUser`.
 
 ---
+---
 
 ## **III. Sustainable Development Goal (SDG) Integration** 🌍  
 
@@ -58,6 +60,7 @@ The *Pawfect Match: A Pet Adoption System* supports **SDG 15** by:
 
 ✨ By improving adoption rates, this system contributes to **halting biodiversity loss** and **promoting animal welfare**.  
 
+---
 ---
 
 ## **IV. Running the Program** 🖥️  
