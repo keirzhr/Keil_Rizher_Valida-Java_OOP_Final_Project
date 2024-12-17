@@ -1,5 +1,5 @@
 # 🐾 **Pawfect Match: A Pet Adoption System**
-CS211 - Object-Oriented Programming
+CS211 - OBJECT-ORIENTED PROGRAMMING
 
 ![Java Badge](https://img.shields.io/badge/Language-Java-orange) 
 ![SDG 15](https://img.shields.io/badge/SDG-15%3A%20Life%20on%20Land-brightgreen)
@@ -8,20 +8,20 @@ CS211 - Object-Oriented Programming
 ---
 ---
 
-## **I. Project Overview** 🌟  
+## 🌟 **I. Project Overview**   
 
 The *Pawfect Match: A Pet Adoption System* is a **Java-based application** developed to streamline the pet adoption process. Designed with simplicity in mind, the system provides an intuitive console interface for both potential adopters and administrators.  
 
 ### 💡 Features:
-- 🐶 **Browse available pets**  
-- 📝 **Apply for pet adoptions**  
-- 📊 **Track adoption applications**  
-- ⚙️ **Manage pets in the system**
+- **Browse available pets**  
+- **Apply for pet adoptions**  
+- **Track adoption applications**  
+- **Manage pets in the system**
 
 ---
 ---
 
-## **II. Object-Oriented Programming (OOP) Principles** 🔧  
+## 🔧 II. Object-Oriented Programming (OOP) Principles
 
 The project demonstrates key **OOP principles**:
 
@@ -48,22 +48,22 @@ The project demonstrates key **OOP principles**:
 ---
 ---
 
-## **III. Sustainable Development Goal (SDG) Integration** 🌍  
+## 🌍 **III. Sustainable Development Goal (SDG) Integration**   
 
 ### 🐾 **SDG 15: Life on Land - Animal Welfare**  
 
 The *Pawfect Match: A Pet Adoption System* supports **SDG 15** by:  
-- 🏠 Facilitating **pet adoption** to provide homes for animals.  
-- 🐕‍🦺 Tracking and managing pet welfare through the adoption process.  
-- 🐾 Promoting **responsible pet ownership**.  
-- 🛟 Encouraging the rescue and rehoming of animals.  
+-  Facilitating **pet adoption** to provide homes for animals.  
+-  Tracking and managing pet welfare through the adoption process.  
+-  Promoting **responsible pet ownership**.  
+-  Encouraging the rescue and rehoming of animals.  
 
 ✨ By improving adoption rates, this system contributes to **halting biodiversity loss** and **promoting animal welfare**.  
 
 ---
 ---
 
-## **IV. Running the Program** 🖥️  
+## 🖥️ **IV. Running the Program**  
 
 ### Prerequisites:  
 - ☕ **Java Development Kit (JDK)** 8 or higher  
@@ -108,7 +108,7 @@ The *Pawfect Match: A Pet Adoption System* supports **SDG 15** by:
 ---
 ---
 
-## V. Initial Login Credentials 🔑
+## 🔑 V. Initial Login Credentials 
 
 #### Admin User
 - 👤 Username: `keil`
@@ -130,7 +130,7 @@ The *Pawfect Match: A Pet Adoption System* supports **SDG 15** by:
 ---
 ---
 
-## VI. Usage Guide 📖  
+## 📖 VI. Usage Guide   
 
 ### **1. Initial Screen**  
 ![Initial Screen](Assets/initial.png)  
@@ -143,7 +143,7 @@ The *Pawfect Match: A Pet Adoption System* supports **SDG 15** by:
 
 ---
 
-## **User Workflow** 👤  
+## 👤 **User Workflow**   
 
 ### **1. Registration**  
 ![Registration Screen](Assets/2.png)  
@@ -193,7 +193,7 @@ When viewing adoption history, the dashboard displays user-specific details, inc
 ---
 ---
 
-## **Admin Workflow** 🛠️  
+## 🛠️ **Admin Workflow**   
 
 ### **1. Admin Login**  
 ![Admin Login Screen](Assets/7.png)  
@@ -225,7 +225,7 @@ When viewing adoption history, the dashboard displays user-specific details, inc
 ---
 ---
 
-## VII. Acknowledgments 🙏
+## 🙏 VII. Acknowledgments 
 
 This project was developed as part of *CS 211 – Object-Oriented Programming* under the guidance of *Mr. Maurice Oliver Dela Cruz.* It reflects the application of OOP principles to solve real-world problems.
 
@@ -234,7 +234,7 @@ I deeply appreciate the opportunity to learn and apply these concepts, and I loo
 ---
 ---
 
-## VIII. Contact 📫
+## 📫 VIII. Contact 
 
 - Developer: Keil Rizher R. Valida
 - ✉️ Email: 23-02166@g.batstate-u.edu.ph
